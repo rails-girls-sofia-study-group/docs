@@ -1,5 +1,9 @@
 # RPS - въведение
 
+1. [Въведение](01_rps_intro.md)
+1. [If/else](02_rps_if_else.md)
+1. [Произволен избор и валидация](03_rps_random_choice_and_validation.md)
+
 Играта, която ще имплементираме, е "Камък-ножица-листо", или "Rock-paper-scissors", или за кратко -- RPS. Искаме програмата да работи горе-долу по следния начин:
 
     Please enter one of: rock, paper, scissors
