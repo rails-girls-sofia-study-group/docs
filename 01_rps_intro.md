@@ -3,6 +3,7 @@
 1. [Въведение](01_rps_intro.md)
 1. [If/else](02_rps_if_else.md)
 1. [Произволен избор и валидация](03_rps_random_choice_and_validation.md)
+1. [Съкращаване на кода с хеш таблица](04_rps_hash.md)
 
 Играта, която ще имплементираме, е "Камък-ножица-листо", или "Rock-paper-scissors", или за кратко -- RPS. Искаме програмата да работи горе-долу по следния начин:
 
@@ -81,3 +82,5 @@ puts "You played:      #{user_choice}"
 puts "Computer played: #{computer_choice}"
 puts "You win!"
 ```
+
+Следваща статия: [If/else](02_rps_if_else.md)
